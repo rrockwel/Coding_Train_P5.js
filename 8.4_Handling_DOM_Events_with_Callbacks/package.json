@@ -1,0 +1,19 @@
+{
+  "name": "8.4_Handling_DOM_Events_with_Callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files *",
+    "nodemon": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

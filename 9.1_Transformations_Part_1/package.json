@@ -1,0 +1,12 @@
+{
+  "name": "9.1_Transformations_Part_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files *"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
